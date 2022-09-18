@@ -1,4 +1,4 @@
-# dfgdfg
+# Profession README Generator
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
         of this software and associated documentation files (the "Software"), to deal
@@ -26,28 +26,30 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 - [Instillation](#install)
 
 ## Description
-fsdg
+This application creats professional readme in a quick way. It allows users to make it without thinking at all.
 
 ## How To Install
-dfgsdf
+Terminal
 
 ## How To Use
-dfgdf
+
 
 ## How To Contribute
-dfgf
+N/A
 
 ## How To Test
-sdfg
+Terminal using node
 
 ## License
 MIT License
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 https://choosealicense.com/licenses/mit/
 
 ## Contact Me
-dgdfg
+camillemyong@gmail.com
 
 ## GitHub Profile
-dffgdf
+camilleyong
 
