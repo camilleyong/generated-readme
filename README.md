@@ -53,3 +53,6 @@ camillemyong@gmail.com
 ## GitHub Profile
 camilleyong
 
+## Video
+(https://drive.google.com/file/d/1vkIK48Q5l0ickKnUoUHbF8ZGUsh-UFhP/view)
+
